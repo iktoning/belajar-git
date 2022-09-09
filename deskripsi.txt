@@ -1,0 +1,2 @@
+sedang belajar terminal git
+test
